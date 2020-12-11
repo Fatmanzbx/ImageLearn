@@ -1,4 +1,4 @@
-Use Minist Dataset
+Use Multiple models to do Image recgonition. Use Minist Dataset to test
 
 This Package contains 3 models.
 The Linear model uses soft max regression(Linear.py).
