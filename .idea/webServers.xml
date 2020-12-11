@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9208a5fa-eced-4dfc-a39a-f8cdeb2a2e81" name="boxuanzhou@research.haas.berkeley.edu" url="">
+        <fileTransfer rootFolder="/home/ststaff/boxuanzhou" accessType="SFTP" host="research.haas.berkeley.edu" port="22" sshConfigId="1e1a2a76-b50f-4158-902d-ac40930c3152" sshConfig="boxuanzhou@research.haas.berkeley.edu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

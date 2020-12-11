@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="boxuanzhou@research.haas.berkeley.edu" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="boxuanzhou@research.haas.berkeley.edu">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/bulk/ML" local="$PROJECT_DIR$" web="/bulk/ML" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
