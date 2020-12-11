@@ -1,3 +1,5 @@
+Use Minist Dataset
+
 This Package contains 3 models.
 The Linear model uses soft max regression(Linear.py).
 The CNN model(CNN.py).
