@@ -2,7 +2,7 @@ Use Multiple models to do Image recgonition. Use Minist Dataset to test
 
 This Package contains 3 models.
 The Linear model uses soft max regression(Linear.py).
-The CNN model(CNN.py).
+The BP Network model(CNN.py).
 The Adaboost using the two above as weak classifiers.(Adaboost.py)
 
 Firstly, the Propre.py loads data for all models with load function.
@@ -13,13 +13,17 @@ Linear model: Softmax Multiple Classifier
 
 Use Operate Linear Model.ipynb to run.
 
-CNN model:Convolution Neural Network
+BP model: BP Network
 
-Use CNNrun.py to run
+Use BPrun.py to run, to optimize the parameter of hidden layer with Adjust function
 
-Adaboost model: Use Linear models as sub classifiers.
+(It runs really fast so I did not set a save function(5 iterations,1 min to reach 95%))
+
+Adaboost model: Use BP as sub classifiers.
 
 Use Operate Ada Boost.ipynb to run
+
+Meanwile I wrote a CNN model, but it performs really badly and I hav not found the reason.
 
 
 
