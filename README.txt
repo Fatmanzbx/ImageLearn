@@ -23,7 +23,7 @@ Adaboost model: Use BP as sub classifiers.
 
 Use Operate Ada Boost.ipynb to run
 
-Meanwile I wrote a CNN model, but it performs really badly and I hav not found the reason.
+Meanwile I wrote a CNN model.
 
 
 
